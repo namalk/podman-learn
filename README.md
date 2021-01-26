@@ -34,4 +34,10 @@ If not, and you got the luxury of direct internet access to pull the image, [Red
 
 [Redhat Univarsal Base Image](https://developers.redhat.com/products/rhel/ubi) 
 
+[container video series](https://www.redhat.com/sysadmin/container-video-series) 
+
+[podman-managing-containers-pods](https://developers.redhat.com/blog/2019/01/15/podman-managing-containers-pods/?intcmp=701f20000012ngPAAQ) 
+
+[container-terminology-practical-introduction](https://developers.redhat.com/blog/2018/02/22/container-terminology-practical-introduction/) 
+
 [how-to-install-wildfly-on-centos-8](https://www.liquidweb.com/kb/how-to-install-wildfly-on-centos-8/) 
