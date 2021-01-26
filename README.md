@@ -4,19 +4,21 @@ My how to notes for Podman, Buildah and Skopeo
 
 ### Create a base image with Buildah 
 
-This is the best method I think in a condition if you are starting with a project to run on containers in a ristricted environment where you cant pull images from a public container registry. [**Ref: 
+This is the best method I think in a condition if you are starting with a project to run on containers in a ristricted environment where you cant pull images from a public container registry.
 
 ```
-# newcontainer=$(buildah from scratch) 
-# buildah containers 
-# scratchmnt=$(buildah mount $newcontainer) 
-# echo $scratchmnt 
-# dnf -y group install "Minimal Install" --releasever=8 --installroot=$scratchmnt 
-# buildah umount $newcontainer 
-# buildah run $newcontainer bash 
-# buildah commit $newcontainer centos-minimum:latest 
+# container=$(buildah from scratch) 
+# buildah containers
+# echo $container
+# mnt=$(buildah mount $container) 
+# echo $mnt 
+# dnf install --releasever=8 --installroot $mnt bash coreutils -y
+# buildah run $container bash 
+# buildah umount $container 
+# buildah commit $container centos-minimum:latest 
 # buildah images 
 ```
+If not, and you got the luxury of direct internet access to pull the image, [Redhat Universal Base Image](https://developers.redhat.com/products/rhel/ubi) is a good stating point with **no ristrictions**. 
 
 ### Ref List:
 
