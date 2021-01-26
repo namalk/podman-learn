@@ -22,14 +22,14 @@ This is the best method I think in a condition if you are starting with a projec
 
 [Everything You Need to Know About Buildah](https://dzone.com/articles/everything-you-need-to-know-about-buildah) 
 
-(https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/8/html/building_running_and_managing_containers/starting-with-containers_building-running-and-managing-containers
+[starting with containers building running and managing containers](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/8/html/building_running_and_managing_containers/starting-with-containers_building-running-and-managing-containers)
 
-https://opensource.com/article/19/2/how-does-rootless-podman-work 
+[how-does-rootless-podman-work](https://opensource.com/article/19/2/how-does-rootless-podman-work)
 
-https://opensource.com/article/18/12/podman-and-user-namespaces 
+[podman-and-user-namespaces](https://opensource.com/article/18/12/podman-and-user-namespaces) 
 
-https://opensource.com/article/19/3/tips-tricks-rootless-buildah 
+[tips-tricks-rootless-buildah](https://opensource.com/article/19/3/tips-tricks-rootless-buildah) 
 
-https://developers.redhat.com/products/rhel/ubi 
+[Redhat Univarsal Base Image](https://developers.redhat.com/products/rhel/ubi) 
 
-https://www.liquidweb.com/kb/how-to-install-wildfly-on-centos-8/ 
+[how-to-install-wildfly-on-centos-8](https://www.liquidweb.com/kb/how-to-install-wildfly-on-centos-8/) 
