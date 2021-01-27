@@ -40,4 +40,6 @@ If not, and you got the luxury of direct internet access to pull the image, [Red
 
 [container-terminology-practical-introduction](https://developers.redhat.com/blog/2018/02/22/container-terminology-practical-introduction/) 
 
+[container-networking-podman](https://www.redhat.com/sysadmin/container-networking-podman) 
+
 [how-to-install-wildfly-on-centos-8](https://www.liquidweb.com/kb/how-to-install-wildfly-on-centos-8/) 
