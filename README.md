@@ -56,4 +56,6 @@ If not, and you got the luxury of direct internet access to pull the image, [Red
 
 [behind-scenes-podman](https://www.redhat.com/sysadmin/behind-scenes-podman)
 
+[podman-kubernetes-yaml](https://developers.redhat.com/blog/2019/01/29/podman-kubernetes-yaml/)
+
 [how-to-install-wildfly-on-centos-8](https://www.liquidweb.com/kb/how-to-install-wildfly-on-centos-8/) 
