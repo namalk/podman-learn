@@ -59,3 +59,7 @@ If not, and you got the luxury of direct internet access to pull the image, [Red
 [podman-kubernetes-yaml](https://developers.redhat.com/blog/2019/01/29/podman-kubernetes-yaml/)
 
 [how-to-install-wildfly-on-centos-8](https://www.liquidweb.com/kb/how-to-install-wildfly-on-centos-8/) 
+
+## Kubernetes with Podman???
+This is an excellent article to understand how Kubernetes works with container runtimes. (Forget about the topic, it has a lot in it :) )
+[kubernetes-is-removing-docker-support-kubernetes-is-not-removing-docker-support(]https://www.openshift.com/blog/kubernetes-is-removing-docker-support-kubernetes-is-not-removing-docker-support)
