@@ -62,4 +62,4 @@ If not, and you got the luxury of direct internet access to pull the image, [Red
 
 ## Kubernetes with Podman???
 This is an excellent article to understand how Kubernetes works with container runtimes. (Forget about the topic, it has a lot in it :) )
-[kubernetes-is-removing-docker-support-kubernetes-is-not-removing-docker-support(]https://www.openshift.com/blog/kubernetes-is-removing-docker-support-kubernetes-is-not-removing-docker-support)
+[kubernetes-is-removing-docker-support-kubernetes-is-not-removing-docker-support](https://www.openshift.com/blog/kubernetes-is-removing-docker-support-kubernetes-is-not-removing-docker-support)
